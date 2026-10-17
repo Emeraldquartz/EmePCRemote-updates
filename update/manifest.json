@@ -1,0 +1,35 @@
+{
+  "app_id": "eme-pc-remote",
+  "version": "0.3",
+  "notes": "自動アップデート機能の初期登録。現在は最新版です。",
+  "files": [
+    {
+      "path": "EmePCRemote.py",
+      "sha256": "e58beddee7fba2ff612680ed3696901461c205a4ffec22d92ce39c8dcaceca16"
+    },
+    {
+      "path": "apply_update.py",
+      "sha256": "812609ddf6c15076a718f32dde06e0dba0ad5a4a9cb0b03c08035c5ef3cad5be"
+    },
+    {
+      "path": "start_hidden.vbs",
+      "sha256": "dd5a4325da4a98e09f820c803b01d821130a993276b2a8eed915e311ea46fdc7"
+    },
+    {
+      "path": "start.bat",
+      "sha256": "d40e1bc4d58c8e54011e55bec2dccde4a1b6e4a5627f7c3c4cfa3fd667276ff6"
+    },
+    {
+      "path": "install_startup.ps1",
+      "sha256": "4f19eb6898d4b1a917e3ac89eb766efdfcea8a02fe17b1fe64aa8f221bfdcf5a"
+    },
+    {
+      "path": "stop_remote.ps1",
+      "sha256": "0b8fe479ee944494be672a0f27d71342fc191796b0374a5a40a754ba524cf432"
+    },
+    {
+      "path": "web/index.html",
+      "sha256": "845dc962d1f6c680dddf3d9464288c3545068894128c85c807c16186a6b5522f"
+    }
+  ]
+}
